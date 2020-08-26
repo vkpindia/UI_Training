@@ -1,0 +1,72 @@
+
+1. Berfore starting the html coding we must define the doctype of that html page
+    for defining the doctype we need to use below syntax
+	 
+	 <!DOCTYPE html> or
+	 <!doctype html> or
+	 <!doctype HTML> or
+	 <!DOCTYPE HTML>
+	
+2. First we start with <html> tag that is called as root tag of a html document
+3. We can include the language type of the html document by "lang" attribute in html root tag
+
+      like: <html lang="en"> </html>
+	  
+4. There is two child tags available for html tag that is:
+
+     1. <head> tag
+	 2. <body> tag
+	 
+5. <head> tag we used to provide meta data(data about data) and addtional information    
+to our html document 
+
+     like:
+	 1. page viewport size for wesite responsivenes 
+	 2. Incuding the autor name to the website
+	 3. For website description
+	 4. for incuding search keywords for the wesite
+	 5. We can link the external style sheets by using <link> tag
+	 7. We can set character encoding by uasing meta chareset
+	 8. For incuding script in html page by using <script>
+	 9. For including the internal style we use head section
+	 
+6. <body> tag we use to dipalaying or rendering the content into browser
+
+
+Quetions to search from google for interview purpose:-
+
+  1. What is the html? What is the full form of html?
+  2. HTML history
+  3. What do you mean by markup langulage?
+  5. What are the <meta> tags avaibale in html?
+  6. How to set the viewport of an html page?
+  7. Advantage and disadvantage of html. 
+  -->
+  
+  Head Section Tags
+  __________________
+  
+  1. Meta tags
+  2. Script tag
+  3. base tag
+  4. style tag
+  5. link tag
+  
+  
+  Body Section Tags
+  _________________
+   
+   1. Basic Staructural tags
+   2. Formatting tags
+   3. List tags
+   4. table tags
+   5. Formns Tags ....
+   others
+
+	 
+	 
+
+	 
+	 
+	 
+	 
