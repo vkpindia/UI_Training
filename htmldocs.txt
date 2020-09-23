@@ -15,7 +15,7 @@
 4. There is two child tags available for html tag that is:
 
      1. <head> tag
-	 2. <body> tag
+     2. <body> tag
 	 
 5. <head> tag we used to provide meta data(data about data) and addtional information    
 to our html document 
@@ -60,13 +60,70 @@ Quetions to search from google for interview purpose:-
    2. Formatting tags
    3. List tags
    4. table tags
-   5. Formns Tags ....
+   5. Forms Tags ....
    others
 
-	 
-	 
 
+Basic Structural tag
+_________________________
+
+1. Headings Tags(h1-h6)
+2. Paragraph and span
+3. Image tag(img)
+4. Division tag(div)
+5. Hyperlinks(<a>)
+
+-> Body section can have number of tags. These tags we devided into multiple tags or groups
+-> In this chapter we will develop webpages using basic structural tags
+
+
+
+Heading tag
+_______________
+
+1. Heading tags are used to prepare the heading for different levels
+2. Html supports six .levels of heading tgs <h1> to <h6>
+
+
+Usage: 
+
+<h1> Heading 1 </h1>
+<h2> Heading 2 </>
+<h3> Heading 3 </h3>
+<h4> Heading 4 </h4>
+<h5> Heading 5 </h5>
+<h6> Heading 6 </h6>
 	 
+	 
+Paragraphs:
+_______________
+
+-> Paragraps are prepared in html using <p> tag
+-> This tag will insert line break before and after paragraph
+-> By default it is block level element and occupy complete width of browser but 
+   as per our requirement by using the css we can make it inline or inline-block
+
+
+Usage:
+	
+      <p> This is the test paragraph </p>
+
+
+Span Tag:
+________
+
+-> Span tag is used to display inline text
+-> It does not insert line break
+
+Usage: 
+  
+  <span> Message </span>
+
+
+Note:
+
+1. <span> tag is more comforatable for displaying validation error beside the text box
+2. <span> tag occupy the space is exactly required for text which inside the span tag
 	 
 	 
 	 
